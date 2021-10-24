@@ -1,2 +1,4 @@
-# estudos
-Minhas anotações e estudos 📚🤓
+### Meus estudos 🧠
+#### HTML5
+#### CSS
+#### JS
