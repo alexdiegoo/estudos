@@ -5,12 +5,13 @@ Adaptar imagens para os sites é muito importante, pois hoje podemos acessar de 
 Para isso usamos as tags `<picture>` e `<source>`
 
 #### Codigo:
-`
+~~~html
 <picture>
+    <source media="(max-width: 750px)" srcset="foto-p.png" type="image/png">
     <source media="(max-width: 1050px)" srcset="foto-m.png" type="image/png">
     <img src="./imagem-g.png" alt="Imagem grande">
 </picture>
-`
+~~~
 
 A tag `<source>` possui três atributos:
 - type: vai indicar o media type da imagem que usamos 
