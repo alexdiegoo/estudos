@@ -9,7 +9,7 @@ Para isso usamos as tags `<picture>` e `<source>`
 <picture>
     <source media="(max-width: 750px)" srcset="foto-p.png" type="image/png">
     <source media="(max-width: 1050px)" srcset="foto-m.png" type="image/png">
-    <img src="./imagem-g.png" alt="Imagem grande">
+    <img src="./imagem-g.png" alt="Imagem flexível">
 </picture>
 ~~~
 
