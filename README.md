@@ -123,3 +123,6 @@ UPDATE nome-da-tabela SET nome = "Nome de Teste", idade = 10 WHERE nome = "Alex 
 #### CSS
 - [Medidas CSS](https://github.com/alexdiegoo/estudos/blob/main/css/medidas.md)
 #### JS
+- [Arrays](https://github.com/alexdiegoo/estudos/blob/main/js/arrays.md)
+- [Objetos](https://github.com/alexdiegoo/estudos/blob/main/js/objetos.md)
+- [Requisições](https://github.com/alexdiegoo/estudos/blob/main/js/requisicoes.md)
